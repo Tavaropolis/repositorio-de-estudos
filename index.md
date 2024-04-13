@@ -1,9 +1,11 @@
-# Tabela de jogos
+<link rel="stylesheet" type="text/css" href="dark-theme.css">
 
+# Categorias de anotações 
+>**Separados por categorias**
 ---
+### Jogos
+- **[Tabela](./Jogos/Tabela.md)**
 
-|Jogo |Categoria|Ano jogado|Nota|
-|-----|---------|----------|----|
-|Vampire Survivors| Roguelike|2024|7
-
-
+### Links
+- **[Japonês](./Links/LinksJapones.md)**
+- **[Joguinhos](./Links/LinksJoguinhos.md)**
