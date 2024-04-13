@@ -2,6 +2,7 @@
 
 # Categorias de anotações 
 >**Separados por categorias**
+
 ---
 ### Jogos
 - **[Tabela](./Jogos/Tabela.md)**
