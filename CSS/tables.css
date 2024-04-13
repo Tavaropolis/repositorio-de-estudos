@@ -2,6 +2,7 @@ table {
     width: 100%;
 }
 
-td:hover {
+tr:has(td):hover {
     background-color: coral;
+    color: white;
 }
