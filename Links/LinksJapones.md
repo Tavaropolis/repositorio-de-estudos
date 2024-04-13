@@ -1,10 +1,20 @@
+<link rel="stylesheet" type="text/css" href="../CSS/dark-theme.css">
+
 [Anotações](../) > [Links](./) > [Links de Japones](./LinksJapones.md)
 
 # Links úteis de Japonês
 
+## [NIHONGOSCHOOL](https://www.nihongoschool.co.uk/nihongoblog)
+
+![](./assets/nihongoschool.png)
+
+Este aqui tem vários artigos simples em japonês para treinar a leitura. Preciso usar mais.
+
+---------
+
 ## [Takoboto](https://takoboto.jp/)
 
-![](C:\Users\tavar\AppData\Roaming\marktext\images\2024-03-30-21-52-10-image.png)
+![](./assets/takoboto.png)
 
 Dicionário comun de japonês. É bem pratico de usar e aceita palavras em inglês e português.
 
@@ -12,7 +22,7 @@ Dicionário comun de japonês. É bem pratico de usar e aceita palavras em ingl�
 
 ## [Tofugu](https://www.tofugu.com/japanese-grammar/)
 
-![](C:\Users\tavar\AppData\Roaming\marktext\images\2024-03-30-21-59-13-image.png)
+![](./assets/tofugu.png)
 
 Guia com vários artigos envolvendo a gramática japonesa
 
@@ -20,15 +30,11 @@ Guia com vários artigos envolvendo a gramática japonesa
 
 ## [Unseen Japan](https://unseen-japan.com/)
 
-![](C:\Users\tavar\AppData\Roaming\marktext\images\2024-03-30-22-04-29-image.png)
+![](./assets/unseenjapan.png)
 
 Esse é bem legal, ele trás artigos sobre a cultura japonesa que saem um pouco do convencional visto por aqui. Da pra aprender muita coisa
 
 --------
 
-## [NIHONGOSCHOOL](https://www.nihongoschool.co.uk/)
 
-![](C:\Users\tavar\AppData\Roaming\marktext\images\2024-03-30-22-17-39-image.png)
-
-Este aqui tem vários artigos simples em japonês para treinar a leitura. Preciso usar mais.
 
