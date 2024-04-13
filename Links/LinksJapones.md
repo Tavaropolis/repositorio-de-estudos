@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="../CSS/dark-theme.css">
 
-[Anotações](../) > [Links](./) > [Links de Japones](./LinksJapones.md)
+[Anotações](../) > [Links](./Index.md) > [Links de Japones](./LinksJapones.md)
 
 # Links úteis de Japonês
 
