@@ -1,5 +1,6 @@
 table {
     width: 70vw;
+    background-color: red;
 }
 
 tr:has(td):hover {

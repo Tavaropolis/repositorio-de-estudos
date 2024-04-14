@@ -12,5 +12,11 @@ a {
 }
 
 table {
-    color: #f1f1f1;
+    background-color: #1a1a1a;
+    color: #ffffff;
+}
+
+tr:has(td):hover {
+    background-color: coral;
+    color: white;
 }
