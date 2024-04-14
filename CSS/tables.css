@@ -1,6 +1,11 @@
 table {
-    width: 70vw;
-    background-color: red;
+    width: 100%;
+    background-color: #1a1a1a;
+}
+
+tr {
+    width: 100%;
+    background-color: #1a1a1a;
 }
 
 tr:has(td):hover {
