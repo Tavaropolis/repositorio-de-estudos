@@ -1,6 +1,6 @@
 .markdown-body table {
-    display: inline;
-    background-color: #1a1a1a;
+    display: inline !important;
+    background-color: #1a1a1a !important;
 }
 
 tr:has(td):hover {
