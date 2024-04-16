@@ -1,3 +1,8 @@
+.markdown-body table {
+    display: inline;
+    background-color: #1a1a1a;
+}
+
 tr:has(td):hover {
     background-color: coral;
     color: white;
