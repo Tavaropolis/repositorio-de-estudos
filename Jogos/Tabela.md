@@ -3,10 +3,7 @@
 
 [Anotações](../) > [Links](./Index.md) > [Tabela de jogos](./Tabela.md)
 
-# Tabela de jogos
-
 |**Jogo**|**Categoria**|**Ano jogado**|**Nota**|
 |-----|---------|----------|----|
-|[Vampire Survivors](./Pages/VampireSurvivors/VampireSurvivors.md)| Roguelike|2024|7
-
+|[Vampire Survivors](./Pages/VampireSurvivors/VampireSurvivors.md)| Roguelike|2024|7|
 
