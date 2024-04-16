@@ -1,6 +1,11 @@
- table {
+.markdown-body table {
+    display: table !important;
     width: 100% !important;
+}
+
+.markdown-body table th {
     background-color: #1a1a1a !important;
+    color: #ffffff !important;
 }
 
 tr:has(td):hover {
