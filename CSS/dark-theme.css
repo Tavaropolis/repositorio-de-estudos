@@ -50,6 +50,7 @@ body {
   .markdown-body td,
   .markdown-body th {
     padding: 0;
+    background-color: var(--background-main-color) !important;
   }
 
   .markdown-body tr:has(td):hover {
