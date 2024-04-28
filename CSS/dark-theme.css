@@ -9,7 +9,7 @@ html {
 }
 
 body {
-    background-color: var(--background-main-color);
+    background-color: var(--background-main-color) !important;
 }
 
 .markdown-body {
@@ -39,11 +39,11 @@ body {
 
 .markdown-body table {
     border-spacing: 0;
-    background-color: var(--background-main-color);
-    color: var(--text-color);
+    background-color: var(--background-main-color) !important;
+    color: var(--text-color) !important;
     border-collapse: collapse;
     display: block;
-    width: 100%;
+    width: 100% !important;
     overflow: auto;
   }
   
