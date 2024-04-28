@@ -8,6 +8,10 @@ html {
     height: 100vh;
 }
 
+body {
+    background-color: var(--background-main-color);
+}
+
 .markdown-body {
     color-scheme: dark;
     width: 100vw;
@@ -35,6 +39,8 @@ html {
 
 .markdown-body table {
     border-spacing: 0;
+    background-color: var(--background-main-color);
+    color: var(--text-color);
     border-collapse: collapse;
     display: block;
     width: 100%;
