@@ -66,3 +66,15 @@ body {
 .markdown-body .highlight pre{
     background-color: #212121 !important;
 }
+
+span.ow {
+    color: #007ACC !important;
+}
+
+span.o {
+    color: #ffffff !important;
+}
+
+span.k {
+    color: #FFA500 !important;
+}
