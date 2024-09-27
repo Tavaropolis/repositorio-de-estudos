@@ -57,3 +57,7 @@ body {
     background-color: coral;
     color: white;
 }
+
+.markdown-body pre{
+    background-color: #212121;
+}
