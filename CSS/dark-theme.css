@@ -58,6 +58,9 @@ body {
     color: white;
 }
 
-.markdown-body pre{
+.markdown-body code,
+.markdown-body kbd,
+.markdown-body pre,
+.markdown-body samp{
     background-color: #212121;
 }
