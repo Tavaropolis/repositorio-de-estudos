@@ -7,7 +7,7 @@
 - [Variáveis](./Variaveis.md)
 - [Atribuição Múltipla](./AtribuicaoMultipla.md)
 - [Tipos de dados](./TiposDeDados.md)
-- 
+- [type()](./Type.md)
 
 # Intermediário
 - [is Operator](./isOperator.md)
