@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="../../CSS/dark-theme-github.css">
+<link rel="stylesheet" type="text/css" href="../../CSS/dark-theme.css">
 
 [Anotações](../) > [Linguagens](../Index.md) > [Anotações Python](./Python.md) > [is Operator](./isOperator.md)
 

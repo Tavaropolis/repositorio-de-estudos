@@ -61,6 +61,8 @@ body {
 .markdown-body code,
 .markdown-body kbd,
 .markdown-body pre,
-.markdown-body samp{
+.markdown-body samp,
+.markdown-body .highlight
+.markdown-body .highlight pre{
     background-color: #212121;
 }
