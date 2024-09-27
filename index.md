@@ -4,6 +4,9 @@
 >**Separados por categorias**
 
 ---
+### Estudos de Programação/Linguagens
+- **[Python](./Linguagens/Python/Python.md)**
+  
 ### Jogos
 - **[Tabela](./Jogos/Tabela.md)**
 
