@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="../../CSS/dark-theme.css">
 
-[Anotações](../../) > [Linguagens](../Index.md) > [Anotações Python](./Python.md) > [Variáveis](./Variaveis.md)
+[Anotações](../../) > [Linguagens](../Index.md) > [Anotações Python](./Index.md) > [Variáveis](./Variaveis.md)
 
 # Variáveis
 

@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="../../CSS/dark-theme.css">
 
-[Anotações](../../) > [Linguagens](../Index.md) > [Anotações Python](./Python.md) > [is Operator](./HelloWorld.md)
+[Anotações](../../) > [Linguagens](../Index.md) > [Anotações Python](./Index.md) > [is Operator](./HelloWorld.md)
 
 # Hello World
 

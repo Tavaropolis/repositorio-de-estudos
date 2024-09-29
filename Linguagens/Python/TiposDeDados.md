@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="../../CSS/dark-theme.css">
 
-[Anotações](../../) > [Linguagens](../Index.md) > [Anotações Python](./Python.md) > [Tipos de Dados](./TiposDeDados.md)
+[Anotações](../../) > [Linguagens](../Index.md) > [Anotações Python](./Index.md) > [Tipos de Dados](./TiposDeDados.md)
 
 # Tipos de Dados
 As variáveis podem ter dierentes tipos de dados. Aqui segue uma lista de referência de todos os tipos de dados aceitos em Pyhton. Vou explicar cada um deles em anotações individuais.

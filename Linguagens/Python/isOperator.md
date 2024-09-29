@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="../../CSS/dark-theme.css">
 
-[Anotações](../../) > [Linguagens](../Index.md) > [Anotações Python](./Python.md) > [is Operator](./isOperator.md)
+[Anotações](../../) > [Linguagens](../Index.md) > [Anotações Python](./Index.md) > [is Operator](./isOperator.md)
 
 # is Operator
 É preciso tomar um certo cuidado com o comparador de igualdade no Python (==). Seu uso em tipos primitivos é o mesmo da maioria das linguagens de programação, retorna True se os valores são iguais, e False se são diferentes, porém as coias começam a mudar em listas e tipos mais complexos.

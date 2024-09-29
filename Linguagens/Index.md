@@ -5,4 +5,4 @@
 # Lista de Linguagens/Tecnologias 
 >**Separados por categorias*
 
-- **[Python](./Python/Python.md)**
+- **[Python](./Python/Index.md)**

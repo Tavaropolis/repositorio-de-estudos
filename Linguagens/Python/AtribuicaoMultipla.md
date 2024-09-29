@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="../../CSS/dark-theme.css">
 
-[Anotações](../../) > [Linguagens](../Index.md) > [Anotações Python](./Python.md) > [Atribuição Multípla](./Variaveis.md)
+[Anotações](../../) > [Linguagens](../Index.md) > [Anotações Python](./Index.md) > [Atribuição Multípla](./Variaveis.md)
 
 # Atribuição Multípla
 Atribuir é o ato de definir um valor para uma variável. Um recurso não muito usual, mas que é bem útil e está presente no Python é a atribuição múltipla. Ou seja, em uma mesma linha de código, podemos atribuir valor a mais de uma variável.

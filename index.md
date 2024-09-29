@@ -5,11 +5,8 @@
 
 ---
 ### Estudos de Programação/Linguagens
-- **[Python](./Linguagens/Python/Python.md)**
+- **[Python](./Linguagens/Python/Index.md)**
   
-### Jogos
-- **[Tabela](./Jogos/Tabela.md)**
-
-### Links
+### Links Úteis
 - **[Japonês](./Links/LinksJapones.md)**
 - **[Joguinhos](./Links/LinksJoguinhos.md)**
