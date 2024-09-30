@@ -7,6 +7,7 @@
 - [Hello World](./HelloWord.md)
 - [Variáveis](./Variaveis.md)
 - [Atribuição Múltipla](./AtribuicaoMultipla.md)
+- [Comentários](./Comentarios.md)
 - [Tipos de dados](./TiposDeDados.md)
 - [type()](./Type.md)
 - [Int](./Int.md)
@@ -14,6 +15,7 @@
 - [Float](./Float.md)
 - [Operadores Aritméticos](./Operadores.md)
 - [Notação Científica](./NotacaoCientifica.md)
+- [Type Annotations](./TypeAnnotations.md)
 # Intermediário
 - [is Operator](./isOperator.md)
     
