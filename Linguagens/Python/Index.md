@@ -16,6 +16,8 @@
 - [Operadores Aritméticos](./Operadores.md)
 - [Notação Científica](./NotacaoCientifica.md)
 - [Type Annotations](./TypeAnnotations.md)
+- [Escape Sequences](./EscapeSequences.md)
+ 
 # Intermediário
 - [is Operator](./isOperator.md)
     
