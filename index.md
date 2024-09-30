@@ -5,6 +5,7 @@
 
 ---
 ### Estudos de Programação/Linguagens
+- **[Javascript](./Linguagens/Javascript/Index.md)**
 - **[Python](./Linguagens/Python/Index.md)**
   
 ### Links Úteis
