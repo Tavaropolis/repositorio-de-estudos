@@ -2,8 +2,14 @@
 
 [Anotações](../../) > [Linguagens](../Index.md)
 
-# Lista de Linguagens/Tecnologias 
+# Lista de Tópicos 
 >**Separados por categorias*
 
+## Banco de dados
+
+## Linguagens
 - **[Javascript](./Javascript/Index.md)**
 - **[Python](./Python/Index.md)**
+
+## Fundamentos
+- **[ASCII](./Fundamentos/ASCII.md)**
