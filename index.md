@@ -4,10 +4,16 @@
 >**Separados por categorias**
 
 ---
-### Estudos de Programação/Linguagens
-- **[Javascript](./Linguagens/Javascript/Index.md)**
-- **[Python](./Linguagens/Python/Index.md)**
+## Estudos de Programação/Linguagens
+### Banco de dados
+
+### Linguagens
+- **[Javascript](./Javascript/Index.md)**
+- **[Python](./Python/Index.md)**
+
+### Fundamentos
+- **[ASCII](./Fundamentos/ASCII.md)**
   
-### Links Úteis
+## Links Úteis
 - **[Japonês](./Links/LinksJapones.md)**
 - **[Joguinhos](./Links/LinksJoguinhos.md)**
