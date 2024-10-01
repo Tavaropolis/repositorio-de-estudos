@@ -6,7 +6,7 @@
 
 ## Caracteres de controle (character code 0-31)
 |Código (Dec)|Código (Oct)|Código (Hex)|Código (Bin)|Símbolo|Descrição|
-|-------------|-------------|-------------|------------|-------|---------|
+|-----|-------|-----|------|-----|------|
 |0|000|00|00000000|NUL|Null character|
 |1|001|01|00000001|SOH|Start of Heading|
 |2|002|02|00000010|STX|Start of Text|
