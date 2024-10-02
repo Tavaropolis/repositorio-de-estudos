@@ -8,11 +8,11 @@
 ### Banco de dados
 
 ### Linguagens
-- **[Javascript](./Javascript/Index.md)**
-- **[Python](./Python/Index.md)**
+- **[Javascript](./Linguagens/Javascript/Index.md)**
+- **[Python](./Linguagens/Python/Index.md)**
 
 ### Fundamentos
-- **[ASCII](./Fundamentos/ASCII.md)**
+- **[ASCII](./Linguagens/Fundamentos/ASCII.md)**
   
 ## Links Úteis
 - **[Japonês](./Links/LinksJapones.md)**
