@@ -16,14 +16,20 @@
 - [Binário, Octal e Hexadecimal](./BinarioOctalHexadecimal.md)
 - [Float](./Float.md)
 - [Operadores Aritméticos](./Operadores.md)
+- [Operadores de Atribuição](./OperadoresAtribuicao.md)
 - [Notação Científica](./NotacaoCientifica.md)
 - [Complex](./Complex.md)
 - [Str](./Str.md)
 - [Type Annotations](./TypeAnnotations.md)
 - [Escape Sequences](./EscapeSequences.md)
 - [Raw Strings](./RawStrings.md)
- 
-# Intermediário
+- [Bool](./Bool.md)
+
+## Coleções  
+- [List](./List.md)
 - [is Operator](./isOperator.md)
+
+# Intermediário
+- [Walrus Operator](./WalrusOperator)
     
 # Avançado
