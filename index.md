@@ -13,6 +13,7 @@
 
 ### Fundamentos
 - **[ASCII](./Linguagens/Fundamentos/ASCII.md)**
+- **[Linux CLI](./Linguagens/LinuxCLI/Index.md)**
   
 ## Links Úteis
 - **[Japonês](./Links/LinksJapones.md)**

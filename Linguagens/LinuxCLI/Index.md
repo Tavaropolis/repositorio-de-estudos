@@ -5,8 +5,11 @@
 # Básico
 - **[Head](./Head.md)**
 - **[Sort](./Sort.md)**
+- **[Wc](./Wc.md)**
 - **[Pattern Match](./PattenMatch.md)** 
 - **[Variaveis](./Variaveis.md)** 
+- **[Stdin, Stdout, Stderr](./Stdinstdoutstderr.md)**
+  
 # Intermediário
     
 # Avançado
