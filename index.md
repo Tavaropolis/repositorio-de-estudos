@@ -16,5 +16,4 @@
 - **[Linux CLI](./Linguagens/LinuxCLI/Index.md)**
   
 ## Links Úteis
-- **[Japonês](./Links/LinksJapones.md)**
-- **[Joguinhos](./Links/LinksJoguinhos.md)**
+

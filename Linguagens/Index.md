@@ -8,6 +8,7 @@
 ## Banco de dados
 
 ## Linguagens
+- **[Java](./Java/Index.md)**
 - **[Javascript](./Javascript/Index.md)**
 - **[Python](./Python/Index.md)**
 
