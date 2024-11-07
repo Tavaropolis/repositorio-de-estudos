@@ -37,7 +37,7 @@ public class Main {
 
 ```
 
-Exemplo com aplicação da injenção de dependência. O objeto **engine** está sendo passado via construtor, mas poderia ser via set ou outro método.
+Exemplo com aplicação da injenção de dependência. O objeto **engine** está sendo passado via construtor, mas poderia ser via setter ou outro método.
 ```java
 class Car {
     private Engine engine;
