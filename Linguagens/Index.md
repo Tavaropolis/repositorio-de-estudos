@@ -10,7 +10,9 @@
 ## Linguagens
 - **[Java](./Java/Index.md)**
 - **[Javascript](./Javascript/Index.md)**
+- **[PHP](./PHP/Index.md)**
 - **[Python](./Python/Index.md)**
 
 ## Fundamentos
 - **[ASCII](./Fundamentos/ASCII.md)**
+- **[Linux CLI](./Linguagens/LinuxCLI/Index.md)**
