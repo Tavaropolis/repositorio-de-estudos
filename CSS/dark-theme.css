@@ -68,7 +68,7 @@ body {
 }
 
 span.ow {
-    color: #007ACC !important;
+    color: #FFA500 !important;
 }
 
 span.o {
@@ -76,9 +76,17 @@ span.o {
 }
 
 span.k {
-    color: #FFA500 !important;
+    color: #036bb1 !important;
 }
 
 span.nt {
     color: #f71818 !important;
+}
+
+span.nc {
+    color: #f71818 !important;
+}
+
+span.s {
+    color: #066633 !important;
 }
