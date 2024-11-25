@@ -83,10 +83,18 @@ span.nt {
     color: #f71818 !important;
 }
 
+span.nf {
+    color: #f71818 !important;
+}
+
 span.nc {
     color: #f71818 !important;
 }
 
 span.s {
-    color: #066633 !important;
+    color: #088844 !important;
+}
+
+span.n {
+    color: #FFA500 !important;
 }
