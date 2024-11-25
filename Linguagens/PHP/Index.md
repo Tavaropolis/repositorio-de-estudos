@@ -4,14 +4,13 @@
 
 # Básico
 ## Introdução
-- **[Localhost](./Localhost.md)**
-- **[Hello World](./HelloWorld.md)**
-- **[Comentários](./Comentario.md)**
-- **[Variáveis](./Variaveis.md)**
+- [Localhost](./Localhost.md)
+- [Hello World](./HelloWorld.md)
+- [Comentários](./Comentario.md)
+- [Variáveis](./Variaveis.md)
   
 # Intermediário
-
 ## Banco de dados
-- **[Habilitando o PDO](./PDOIntro.md)**
+- [Habilitando o PDO](./PDOIntro.md)
   
 # Avançado

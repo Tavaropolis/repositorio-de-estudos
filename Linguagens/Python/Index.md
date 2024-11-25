@@ -27,9 +27,11 @@
 
 ## Coleções  
 - [List](./List.md)
+- [len()](./Len.md)
 - [is Operator](./isOperator.md)
 
 # Intermediário
 - [Walrus Operator](./WalrusOperator)
+- [help()](./Help.md)
     
 # Avançado
