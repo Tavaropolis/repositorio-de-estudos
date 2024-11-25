@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="../../CSS/dark-theme.css">
 
-[Anotações](../../) > [Linguagens](../Index.md) > [Anotações Python](./Index.md) > [is Operator](./isOperator.md)
+[Anotações](../../) > [Linguagens](../Index.md) > [Anotações Python](./Index.md) > [List](./List.md)
 
 # List
 Um **list** é um tipo de dado em que se pode salvar mais de uma informação ao mesmo tempo, literalmente uma lista. Em algumas linguagens essa estrutura é chamada de **array**.
