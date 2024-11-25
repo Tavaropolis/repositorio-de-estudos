@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="../CSS/dark-theme.css">
 
-[Anotações](../../) > [Linguagens](../Index.md)
+[Anotações](../) > [Linguagens](./Index.md)
 
 # Lista de Tópicos 
 >**Separados por categorias*
@@ -15,4 +15,4 @@
 
 ## Fundamentos
 - **[ASCII](./Fundamentos/ASCII.md)**
-- **[Linux CLI](./Linguagens/LinuxCLI/Index.md)**
+- **[Linux CLI](./LinuxCLI/Index.md)**

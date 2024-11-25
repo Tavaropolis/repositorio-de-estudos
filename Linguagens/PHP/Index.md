@@ -3,8 +3,13 @@
 [Anotações](../../) > [Linguagens](../Index.md) > [Anotações PHP](./Index.md)
 
 # Básico
+## Introdução
+- **[Localhost](./Localhost.md)**
+- **[Hello World](./HelloWorld.md)**
 
 # Intermediário
-- **[Localhost](./Localhost.md)**
+
+## Banco de dados
+- **[Habilitando o PDO](./PDOIntro.md)**
   
 # Avançado
