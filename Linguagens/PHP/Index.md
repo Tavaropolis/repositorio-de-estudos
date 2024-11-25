@@ -6,7 +6,8 @@
 ## Introdução
 - **[Localhost](./Localhost.md)**
 - **[Hello World](./HelloWorld.md)**
-
+- **[Comentários](./Comentario.md)**
+- **[Variáveis](./Variaveis.md)**
 # Intermediário
 
 ## Banco de dados

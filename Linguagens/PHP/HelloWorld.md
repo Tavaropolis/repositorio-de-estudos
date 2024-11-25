@@ -6,7 +6,7 @@
 
 Quando estamos aprendendo uma nova tecnologia é muito comum que a primeira coisa que aprendemos a fazer é exibir uma mensagem na tela.
 
-O **PHP** funcionam em arquivos de extenção **.php**. Ele funciona como um arquivo HTML, todas as tags são interpretadas, é possível importar CSS e [Javascript](../Javascript/Index.md) completamente normalmente.
+O **PHP** funcionam em arquivos de extenção **.php**. Ele funciona como um arquivo [HTML](../HTML/Index.md), todas as tags são interpretadas, é possível importar [CSS](../CSS/Index.md) e [Javascript](../Javascript/Index.md) completamente normalmente.
 
 A principal diferença é que podemos abrir uma tag com **<?php php>**. Tudo que estiver dentro dessa tag, será interpretado como código PHP.
 
@@ -22,4 +22,21 @@ Como isso é uma ação muito rotineira, o PHP possui um atalho para esses casos
 
 ```php
 <?= "Hello World" ?>
+```
+
+Aqui segue um exemplo do código PHP junto a um HTML: 
+
+```php
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My first PHP page</h1>
+
+<?php
+echo "Hello World!";
+?>
+
+</body>
+</html>
 ```

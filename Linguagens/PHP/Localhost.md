@@ -15,3 +15,4 @@ Para executar o localhost basta executar o comando abaixo no terminal. A porta n
 ```shell
 php -S localhost:8000
 ```
+Por fim, basta acessar o navegador e digitar na barra de endereço localhost (ou 127.0.0.1) seguido por : e a porta , ou seja, nesse caso **localhost:8000**.
