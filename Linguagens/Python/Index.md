@@ -27,6 +27,9 @@
 
 ## Coleções  
 - [List](./List.md)
+- [Acessando a lista](./AcessandoLista.md)
+- [in Operator / not in Operator](./innotinOperator.md)
+- [sort()](./Sort.md)
 - [len()](./Len.md)
 - [is Operator](./isOperator.md)
 
