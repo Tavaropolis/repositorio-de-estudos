@@ -26,11 +26,19 @@
 - [Raw Strings](./RawStrings.md)
 - [Bool](./Bool.md)
 - [Type Casting](./TypeCasting.md)
+- [input()](./Input.md)
 
 ## Coleções  
 - [List](./List.md)
 - [Acessando a lista](./AcessandoLista.md)
 - [in Operator / not in Operator](./innotinOperator.md)
+### Adicionando a lista
+- [append()](./Append.md)
+### Removendo da lista
+- [remove()](./Remove.md)
+- [pop()](./Pop.md)
+- [clear()](./Clear.md)
+### Outras funções úteis de lista
 - [sort()](./Sort.md)
 - [len()](./Len.md)
 - [is Operator](./isOperator.md)
