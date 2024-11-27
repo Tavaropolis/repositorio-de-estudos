@@ -9,6 +9,7 @@
 - [Variáveis](./Variaveis.md)
 - [Atribuição Múltipla](./AtribuicaoMultipla.md)
 - [Comentários](./Comentarios.md)
+  
 ## Dados Primitivos
 - [Tipos de dados](./TiposDeDados.md)
 - [type()](./Type.md)
@@ -24,6 +25,7 @@
 - [Escape Sequences](./EscapeSequences.md)
 - [Raw Strings](./RawStrings.md)
 - [Bool](./Bool.md)
+- [Type Casting](./TypeCasting.md)
 
 ## Coleções  
 - [List](./List.md)
@@ -32,6 +34,9 @@
 - [sort()](./Sort.md)
 - [len()](./Len.md)
 - [is Operator](./isOperator.md)
+
+## Estruturas de Controle
+- [if / elif / else](./ifElifElse.md)
 
 # Intermediário
 - [Walrus Operator](./WalrusOperator)
