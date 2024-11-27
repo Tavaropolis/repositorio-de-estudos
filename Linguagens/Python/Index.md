@@ -21,6 +21,7 @@
 - [Notação Científica](./NotacaoCientifica.md)
 - [Complex](./Complex.md)
 - [Str](./Str.md)
+- [Multiplicação de String](./MultiplicacaoString.md)
 - [Type Annotations](./TypeAnnotations.md)
 - [Escape Sequences](./EscapeSequences.md)
 - [Raw Strings](./RawStrings.md)
