@@ -11,6 +11,7 @@
 - [Comentários](./Comentarios.md)
   
 ## Dados Primitivos
+
 ### Conceitos básicos
 - [Tipos de dados](./TiposDeDados.md)
 - [type()](./Type.md)
@@ -35,6 +36,7 @@
 - [input()](./Input.md)
 
 ## Coleções
+
 ### Listas  
 - [List](./List.md)
 - [Acessando a lista](./AcessandoLista.md)
