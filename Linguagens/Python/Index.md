@@ -11,8 +11,10 @@
 - [Comentários](./Comentarios.md)
   
 ## Dados Primitivos
+### Conceitos básicos
 - [Tipos de dados](./TiposDeDados.md)
 - [type()](./Type.md)
+### Números
 - [Int](./Int.md)
 - [Binário, Octal e Hexadecimal](./BinarioOctalHexadecimal.md)
 - [Float](./Float.md)
@@ -20,28 +22,34 @@
 - [Operadores de Atribuição](./OperadoresAtribuicao.md)
 - [Notação Científica](./NotacaoCientifica.md)
 - [Complex](./Complex.md)
+### Texto
 - [Str](./Str.md)
 - [Multiplicação de String](./MultiplicacaoString.md)
-- [Type Annotations](./TypeAnnotations.md)
 - [Escape Sequences](./EscapeSequences.md)
 - [Raw Strings](./RawStrings.md)
+### Booleano
 - [Bool](./Bool.md)
+### Outros conceitos úteis
+- [Type Annotations](./TypeAnnotations.md)
 - [Type Casting](./TypeCasting.md)
 - [input()](./Input.md)
 
-## Coleções  
+## Coleções
+### Listas  
 - [List](./List.md)
 - [Acessando a lista](./AcessandoLista.md)
 - [in Operator / not in Operator](./innotinOperator.md)
-### Adicionando a lista
-- [append()](./Append.md)
-### Removendo da lista
-- [remove()](./Remove.md)
-- [pop()](./Pop.md)
-- [clear()](./Clear.md)
-### Outras funções úteis de lista
-- [sort()](./Sort.md)
 - [len()](./Len.md)
+### Adicionando a lista
+- [append()](./AppendList.md)
+- [Concatenação de Listas](./ConcatList.md)
+### Removendo da lista
+- [remove()](./RemoveList.md)
+- [pop()](./PopList.md)
+- [clear()](./ClearList.md)
+### Outras funções úteis de lista
+- [sort()](./SortList.md)
+- [count()](./CountList.md)
 - [is Operator](./isOperator.md)
 
 ## Estruturas de Controle
