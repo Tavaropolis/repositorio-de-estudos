@@ -3,6 +3,7 @@
 [Anotações](../../) > [Linguagens](../Index.md) > [Anotações Python](./Index.md)
 
 # Básico
+
 ## Introdução
 - [Executando um script Python](./ExecutandoScript.md)
 - [Hello World](./HelloWord.md)
@@ -15,6 +16,7 @@
 ### Conceitos básicos
 - [Tipos de dados](./TiposDeDados.md)
 - [type()](./Type.md)
+  
 ### Números
 - [Int](./Int.md)
 - [Binário, Octal e Hexadecimal](./BinarioOctalHexadecimal.md)
@@ -23,13 +25,16 @@
 - [Operadores de Atribuição](./OperadoresAtribuicao.md)
 - [Notação Científica](./NotacaoCientifica.md)
 - [Complex](./Complex.md)
+  
 ### Texto
 - [Str](./Str.md)
 - [Multiplicação de String](./MultiplicacaoString.md)
 - [Escape Sequences](./EscapeSequences.md)
 - [Raw Strings](./RawStrings.md)
+  
 ### Booleano
 - [Bool](./Bool.md)
+  
 ### Outros conceitos úteis
 - [Type Annotations](./TypeAnnotations.md)
 - [Type Casting](./TypeCasting.md)
@@ -42,13 +47,16 @@
 - [Acessando a lista](./AcessandoLista.md)
 - [in Operator / not in Operator](./innotinOperator.md)
 - [len()](./Len.md)
+  
 ### Adicionando a lista
 - [append()](./AppendList.md)
 - [Concatenação de Listas](./ConcatList.md)
+  
 ### Removendo da lista
 - [remove()](./RemoveList.md)
 - [pop()](./PopList.md)
 - [clear()](./ClearList.md)
+  
 ### Outras funções úteis de lista
 - [sort()](./SortList.md)
 - [count()](./CountList.md)
@@ -56,6 +64,9 @@
 
 ## Estruturas de Controle
 - [if / elif / else](./ifElifElse.md)
+- [while](./While.md)
+- [continue](./Continue.md)
+- [break](./Break.md)
 
 # Intermediário
 - [Walrus Operator](./WalrusOperator)
