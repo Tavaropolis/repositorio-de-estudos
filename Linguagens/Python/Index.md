@@ -51,6 +51,7 @@
 ### Adicionando a lista
 - [append()](./AppendList.md)
 - [Concatenação de Listas](./ConcatList.md)
+- [extend()](./ExtendList.md)
   
 ### Removendo da lista
 - [remove()](./RemoveList.md)
@@ -67,6 +68,14 @@
 - [while](./While.md)
 - [continue](./Continue.md)
 - [break](./Break.md)
+
+## Orientação a Objetos
+
+### Conceitos básicos
+- [Class](./Class.md)
+- [pass](./PassClass.md)
+- [\_\_init\_\_()](./InitClass.md)
+- [self](./SelfClass.md)
 
 # Intermediário
 - [Walrus Operator](./WalrusOperator)
