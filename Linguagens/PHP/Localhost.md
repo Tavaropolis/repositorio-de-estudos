@@ -8,7 +8,7 @@ O PHP é uma linguagem de programação backend, ou seja, a fim de nosso código
 
 Podemos utilizar a nossa própria máquina como um servidor local, chamando um IP próprio (127.0.0.1), o **localhost**. Este endereço é utilizado para desenvolvimento apenas.
 
-Pode-se ser utilizado programas como o XAMPP para rodar um servidor local PHP. Porém o PHP atual possui um servidor nativo build-in.
+Pode-se ser utilizado programas como o XAMPP para rodar um servidor local PHP. Porém o PHP atual possui um servidor nativo built-in.
 
 Para executar o localhost basta executar o comando abaixo no terminal. A porta não precisa ser necessáriamente 8000 ficando a cargo do desenvolvedor.
 

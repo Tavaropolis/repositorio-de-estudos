@@ -6,7 +6,7 @@
 
 **sort()** é uma função do Python capaz de organizar uma lista, alfabéticamente ou númericamente. 
 
-Importante notar que **sort()** é um método de lista, e não uma buildin do Python, é necessário então primeiro criar uma lista e então chamar o método dela (algo como por exemplo sualista.sort()).
+Importante notar que **sort()** é um método de lista, e não uma built-in do Python, é necessário então primeiro criar uma lista e então chamar o método dela (algo como por exemplo sualista.sort()).
 
 ```python
 ninjas = ["Sasuke", "Naruto", "Sakura", "Kakashi"]

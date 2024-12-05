@@ -3,7 +3,7 @@
 [Anotações](../../) > [Linguagens](../Index.md) > [Anotações Python](./Index.md) > [help()](./Help.md)
 
 # help()
-**help()** é uma função build-in do Python que retorna uma breve descrição sobre as funções. Segue um exemplo:
+**help()** é uma função built-in do Python que retorna uma breve descrição sobre as funções. Segue um exemplo:
 
 ```python
 help(print) #Retorna uma breve descrição da função

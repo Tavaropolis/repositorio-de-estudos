@@ -28,6 +28,7 @@
   
 ### Texto
 - [Str](./Str.md)
+- [Concatenação de Strings](./ConcatString.md)
 - [Multiplicação de String](./MultiplicacaoString.md)
 - [Escape Sequences](./EscapeSequences.md)
 - [Raw Strings](./RawStrings.md)
@@ -35,7 +36,7 @@
 ### Booleano
 - [Bool](./Bool.md)
   
-### Outros conceitos úteis
+## Outros conceitos úteis
 - [Type Annotations](./TypeAnnotations.md)
 - [Type Casting](./TypeCasting.md)
 - [input()](./Input.md)
@@ -50,6 +51,7 @@
   
 ### Adicionando a lista
 - [append()](./AppendList.md)
+- [insert()](./InsertList.md)
 - [Concatenação de Listas](./ConcatList.md)
 - [extend()](./ExtendList.md)
   
@@ -60,14 +62,22 @@
   
 ### Outras funções úteis de lista
 - [sort()](./SortList.md)
+- [reverse()](./ReverseList.md)
 - [count()](./CountList.md)
 - [is Operator](./isOperator.md)
 
+### Tuplas
+- [Tuple](./Tuple.md)
+- [Desempacotamento de Tuplas](.UnpackTuple.md)
+
 ## Estruturas de Controle
 - [if / elif / else](./ifElifElse.md)
+- [if Ternário](./IfTernario.md)
 - [while](./While.md)
 - [continue](./Continue.md)
 - [break](./Break.md)
+- [range()](./Range.md)
+
 
 ## Orientação a Objetos
 
