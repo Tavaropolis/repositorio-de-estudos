@@ -69,10 +69,13 @@
 ### Tuplas
 - [Tuple](./Tuple.md)
 - [Desempacotamento de Tuplas](.UnpackTuple.md)
-
+- [Concatenação de Tuplas](ConcatTuple.md)
+- [Multiplicação de Tuplas](MultiplicacaoTuple.md)
+  
 ## Estruturas de Controle
 - [if / elif / else](./ifElifElse.md)
 - [if Ternário](./IfTernario.md)
+- [Match Case](./MatchCase.md)
 - [while](./While.md)
 - [continue](./Continue.md)
 - [break](./Break.md)
