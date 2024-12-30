@@ -5,5 +5,6 @@
 # Básico
 
 # Intermediário
-    
+- [IIFE](./IIFE.md)    
+  
 # Avançado

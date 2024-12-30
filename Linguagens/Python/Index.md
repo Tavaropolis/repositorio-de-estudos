@@ -61,6 +61,7 @@
 - [clear()](./ClearList.md)
   
 ### Outras funções úteis de lista
+- [List Comprehension](./ListComprehension.md)
 - [sort()](./SortList.md)
 - [reverse()](./ReverseList.md)
 - [count()](./CountList.md)
@@ -71,7 +72,11 @@
 - [Desempacotamento de Tuplas](.UnpackTuple.md)
 - [Concatenação de Tuplas](ConcatTuple.md)
 - [Multiplicação de Tuplas](MultiplicacaoTuple.md)
-  
+
+### Outras funções úteis de lista
+- [count()](./CountTuple.md)
+- [index()](./IndexTuple.md)
+
 ## Estruturas de Controle
 - [if / elif / else](./ifElifElse.md)
 - [if Ternário](./IfTernario.md)
