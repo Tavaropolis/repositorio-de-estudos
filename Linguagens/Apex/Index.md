@@ -30,7 +30,7 @@
 ## Coleções
 
 ### List
--[List](./List.md)
+- [List](./List.md)
 
 #### Adicionando valores a lista
 
