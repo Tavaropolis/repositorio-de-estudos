@@ -10,13 +10,28 @@
 - [Developer Console](./DeveloperConsole.md)
 - [Hello World](./HelloWord.md)
 - [Variáveis](./Variaveis.md)
-
+- [Comentários](./Comentarios.md)
+- [final](./Final.md)
+  
 ## Tipos Primitivos
 
 ### Integer
 - [Integer](./Integer.md)
 - [format()](./IntegerFormat.md)
+- [valueOf()](./IntegerValueOf.md)
+
+### Long
+- [Long](./Long.md)
+- [format()](./LongFormat.md)
+- [intValue()](./LongIntValue.md)
   
 # Intermediário
+
+## Coleções
+
+### List
+-[List](./List.md)
+
+#### Adicionando valores a lista
 
 # Avançado

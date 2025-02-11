@@ -25,7 +25,7 @@ System.debug(varString);
 
 ## Conversão de String para Integer
 
-Para fazer o sentido inverso, transformar uma String em Integer podemos utilizar o método **[valueOf()](./IntegerValueOf.md)**.
+Para fazer o sentido inverso, transformar uma String em Integer podemos utilizar o método **[valueOf()](./IntegerValueOf.md)**. Note que esse é um método estático, você não precisa instanciar um objeto para invocá-lo.
 
 ```apex
 Integer myInt = Integer.valueOf('123');
