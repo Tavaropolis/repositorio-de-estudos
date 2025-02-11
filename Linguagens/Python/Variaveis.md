@@ -46,5 +46,5 @@ Existem algumas regras que se deve seguir na hora de se nomear uma variável no 
 A convenção de nomes de variável é de se adotar o snake case. Não é algo obrigatório, apenas uma convenção. Segue um exemplo de Snake Case.
 
 ```python
-sou_uma varavel = "Em Snake Case"
+sou_uma variavel = "Em Camel Case"
 ```

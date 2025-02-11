@@ -8,7 +8,15 @@
 - [Técnologias Salesforce](./TecnologiasSalesforce.md)
 - [Declarative Tools](./DeclarativeTools.md)
 - [Developer Console](./DeveloperConsole.md)
+- [Hello World](./HelloWord.md)
+- [Variáveis](./Variaveis.md)
 
+## Tipos Primitivos
+
+### Integer
+- [Integer](./Integer.md)
+- [format()](./IntegerFormat.md)
+  
 # Intermediário
 
 # Avançado
