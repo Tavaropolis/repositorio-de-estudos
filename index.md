@@ -8,6 +8,7 @@
 ### Banco de dados
 
 ### Linguagens
+- **[Apex](./Linguagens/Apex/Index.md)**
 - **[Java](./Linguagens/Java/Index.md)**
 - **[Javascript](./Linguagens/Javascript/Index.md)**
 - **[PHP](./Linguagens/PHP/Index.md)**

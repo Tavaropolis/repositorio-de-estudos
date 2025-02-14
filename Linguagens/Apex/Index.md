@@ -24,6 +24,7 @@
 - [Long](./Long.md)
 - [format()](./LongFormat.md)
 - [intValue()](./LongIntValue.md)
+- [valueOf()](./LongValueOf.md)
   
 # Intermediário
 
@@ -32,6 +33,21 @@
 ### List
 - [List](./List.md)
 
-#### Adicionando valores a lista
+#### Acessando elementos da lista
+- [get()](./ListGet.md)
+
+#### Adicionando elementos a lista
+- [add()](./ListAdd.md)
+- [addAll()](./ListAddAll.md)
+  
+#### Removendo elementos da lista
+- [remove()](./ListRemove.md)
+- [clear()](./ListClear.md)
+  
+#### Alterando elementos da lista
+
+#### Outros métodos úteis de lista
+
+### Sets
 
 # Avançado
