@@ -22,3 +22,11 @@ Ainda que você só possa passar dados do mesmo tipo em uma lista, se você defi
 ```apex
 List<Object> randomData = new List<Object>{'Alice', 25, 99.99};
 ```
+
+**Apex** é uma das linguagens onde é possível passar uma lista toda como argumento de um print (System.debug). Por exemplo: 
+
+```apex
+List<String> names = new List<String>{'Alice', 'Bob'};
+
+System.debug(names); //Exibirá ['Alice', 'Bob']
+```

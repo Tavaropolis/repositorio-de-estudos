@@ -47,7 +47,18 @@
 #### Alterando elementos da lista
 
 #### Outros métodos úteis de lista
+- [size()](./ListSize.md)
 
-### Sets
+### Set
+- [Set](./Set.md)
 
+#### Adicionando elementos ao Set
+- [add()](./SetAdd.md)
+  
+#### Removendo elementos do Set
+- [clear()](./SetClear.md)
+  
+#### Outros métodos úteis de Set
+- [contains()](./SetContains.md)
+  
 # Avançado
