@@ -49,18 +49,18 @@
 - [in Operator / not in Operator](./innotinOperator.md)
 - [len()](./Len.md)
   
-### Adicionando a lista
+#### Adicionando a lista
 - [append()](./AppendList.md)
 - [insert()](./InsertList.md)
 - [Concatenação de Listas](./ConcatList.md)
 - [extend()](./ExtendList.md)
   
-### Removendo da lista
+#### Removendo da lista
 - [remove()](./RemoveList.md)
 - [pop()](./PopList.md)
 - [clear()](./ClearList.md)
   
-### Outras funções úteis de lista
+#### Outras funções úteis de lista
 - [List Comprehension](./ListComprehension.md)
 - [sort()](./SortList.md)
 - [reverse()](./ReverseList.md)
@@ -73,7 +73,7 @@
 - [Concatenação de Tuplas](ConcatTuple.md)
 - [Multiplicação de Tuplas](MultiplicacaoTuple.md)
 
-### Outras funções úteis de lista
+#### Outras funções úteis de tuplas
 - [count()](./CountTuple.md)
 - [index()](./IndexTuple.md)
 

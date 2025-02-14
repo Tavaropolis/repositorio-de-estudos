@@ -25,8 +25,6 @@
 - [format()](./LongFormat.md)
 - [intValue()](./LongIntValue.md)
 - [valueOf()](./LongValueOf.md)
-  
-# Intermediário
 
 ## Coleções
 
@@ -45,7 +43,8 @@
 - [clear()](./ListClear.md)
   
 #### Alterando elementos da lista
-
+- [set()](./ListSet.md)
+  
 #### Outros métodos úteis de lista
 - [size()](./ListSize.md)
 
@@ -56,9 +55,22 @@
 - [add()](./SetAdd.md)
   
 #### Removendo elementos do Set
+- [remove()](./SetRemove.md)
 - [clear()](./SetClear.md)
   
 #### Outros métodos úteis de Set
 - [contains()](./SetContains.md)
-  
+- [size()](./SetSize.md)
+
+### Map
+- [Map](./Map.md)
+
+#### Acessando elementos do Map
+
+#### Adicionando elementos ao Map
+
+#### Removendo elementos do Map
+
+# Intermediário
+
 # Avançado
