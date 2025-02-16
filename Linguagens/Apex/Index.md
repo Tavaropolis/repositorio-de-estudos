@@ -66,11 +66,21 @@
 - [Map](./Map.md)
 
 #### Acessando elementos do Map
+- [get()](./MapGet.md)
 
 #### Adicionando elementos ao Map
-
+- [put()](./MapPut.md)
+  
 #### Removendo elementos do Map
+- [remove()](./MapRemove.md)
+- [clear()](./MapClear.md)
 
+#### Outros métodos úteis de Set
+- [keySet()](./MapKeySet.md)
+
+## Operadores
+- [Operadores](./Operadores.md)
+  
 # Intermediário
 
 # Avançado
