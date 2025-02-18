@@ -26,6 +26,9 @@
 - [intValue()](./LongIntValue.md)
 - [valueOf()](./LongValueOf.md)
 
+### null
+- [null](./Null.md)
+
 ## Coleções
 
 ### List
@@ -80,6 +83,12 @@
 
 ## Operadores
 - [Operadores](./Operadores.md)
+- [Safe Navigation Operator](./SafeNavigationOperator.md)  
+- [Null Coalescing Operator](./NullCoalescingOperator.md)
+
+## Tomadas de decisões
+- [if / else](./IfElse.md)
+- [switch when](./SwitchWhen.md)
   
 # Intermediário
 
