@@ -96,7 +96,10 @@
 - [for](./For.md)
   
 ### Estruturas de controles de laços
-  
+- [continue](./Continue.md)
+- [break](./Break.md)
+
+## Programação orientada a objetos
 # Intermediário
 
 # Avançado

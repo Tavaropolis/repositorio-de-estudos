@@ -51,5 +51,4 @@ do {
     if (j == 4) break; // Sai do loop quando j == 4
     j++;
 } while (true); // Loop infinito
-
 ```
