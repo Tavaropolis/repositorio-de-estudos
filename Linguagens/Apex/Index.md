@@ -89,6 +89,12 @@
 ## Tomadas de decisões
 - [if / else](./IfElse.md)
 - [switch when](./SwitchWhen.md)
+
+## Laços de repetição
+- [while](./While.md)
+- [do while](./DoWhile.md)
+
+### Estruturas de controles de laços
   
 # Intermediário
 
