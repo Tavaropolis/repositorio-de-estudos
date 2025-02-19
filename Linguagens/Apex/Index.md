@@ -93,7 +93,8 @@
 ## Laços de repetição
 - [while](./While.md)
 - [do while](./DoWhile.md)
-
+- [for](./For.md)
+  
 ### Estruturas de controles de laços
   
 # Intermediário
