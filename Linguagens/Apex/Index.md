@@ -2,6 +2,8 @@
 
 [Anotações](../../) > [Linguagens](../Index.md) > [Anotações Apex](./Index.md)
 
+>**Tópicos da linguagem Apex**
+
 # Básico
 
 ## Introdução
@@ -100,6 +102,13 @@
 - [break](./Break.md)
 
 ## Programação orientada a objetos
+- [Classes](./Classes.md)
+- [Inner class / Outter class](./InnerClassOutterClass.md)
+
+### Modificadores de acesso
+- [private](./ClassPrivate.md)
+- [public](./ClassPublic.md)
+  
 # Intermediário
 
 # Avançado

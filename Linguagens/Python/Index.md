@@ -77,6 +77,9 @@
 - [count()](./CountTuple.md)
 - [index()](./IndexTuple.md)
 
+### Set
+- [Set](./Set.md)
+  
 ## Estruturas de Controle
 - [if / elif / else](./ifElifElse.md)
 - [if Ternário](./IfTernario.md)
