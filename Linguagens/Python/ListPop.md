@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="../../CSS/dark-theme.css">
 
-[Anotações](../../) > [Linguagens](../Index.md) > [Anotações Python](./Index.md) > [pop()](./PopList.md)
+[Anotações](../../) > [Linguagens](../Index.md) > [Anotações Python](./Index.md) > [pop()](./ListPop.md)
 
 # pop()
 **pop()** é mais uma das função de remoção de elementos. Esta função retira o último elemento de uma lista.

@@ -2,6 +2,8 @@
 
 [Anotações](../../) > [Linguagens](../Index.md) > [Anotações Python](./Index.md)
 
+>**Tópicos da linguagem Python**
+
 # Básico
 
 ## Introdução
@@ -50,14 +52,14 @@
 - [len()](./Len.md)
   
 #### Adicionando a lista
-- [append()](./AppendList.md)
-- [insert()](./InsertList.md)
-- [Concatenação de Listas](./ConcatList.md)
-- [extend()](./ExtendList.md)
+- [append()](./ListAppend.md)
+- [insert()](./ListInsert.md)
+- [Concatenação de Listas](./ListConcat.md)
+- [extend()](./ListExtend.md)
   
 #### Removendo da lista
-- [remove()](./RemoveList.md)
-- [pop()](./PopList.md)
+- [remove()](./ListRemove.md)
+- [pop()](./ListPop.md)
 - [clear()](./ClearList.md)
   
 #### Outras funções úteis de lista
@@ -69,9 +71,9 @@
 
 ### Tuplas
 - [Tuple](./Tuple.md)
-- [Desempacotamento de Tuplas](.UnpackTuple.md)
-- [Concatenação de Tuplas](ConcatTuple.md)
-- [Multiplicação de Tuplas](MultiplicacaoTuple.md)
+- [Desempacotamento de Tuplas](./UnpackTuple.md)
+- [Concatenação de Tuplas](./ConcatTuple.md)
+- [Multiplicação de Tuplas](./MultiplicacaoTuple.md)
 
 #### Outras funções úteis de tuplas
 - [count()](./CountTuple.md)
@@ -79,6 +81,10 @@
 
 ### Set
 - [Set](./Set.md)
+
+#### Adicionando ao Set
+- [add()](./SetAdd.md)
+- [update()](./SetUpdate.md)
   
 ## Estruturas de Controle
 - [if / elif / else](./ifElifElse.md)

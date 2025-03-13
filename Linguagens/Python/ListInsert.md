@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="../../CSS/dark-theme.css">
 
-[Anotações](../../) > [Linguagens](../Index.md) > [Anotações Python](./Index.md) > [insert()](./InsertList.md)
+[Anotações](../../) > [Linguagens](../Index.md) > [Anotações Python](./Index.md) > [insert()](./ListInsert.md)
 
 # insert()
 **insert()** é uma função que nos possibilita adicionar um elemento em uma lista, e ao contrário do [append()](./AppendList.md), ele pode ser adicionado em qualquer índice.
