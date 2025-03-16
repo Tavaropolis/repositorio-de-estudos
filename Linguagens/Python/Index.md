@@ -50,6 +50,7 @@
 - [Acessando a lista](./AcessandoLista.md)
 - [in Operator / not in Operator](./innotinOperator.md)
 - [len()](./Len.md)
+- [List Comprehension](./ListComprehension.md)
   
 #### Adicionando a lista
 - [append()](./ListAppend.md)
@@ -63,7 +64,6 @@
 - [clear()](./ClearList.md)
   
 #### Outras funções úteis de lista
-- [List Comprehension](./ListComprehension.md)
 - [sort()](./SortList.md)
 - [reverse()](./ReverseList.md)
 - [count()](./CountList.md)
@@ -81,10 +81,19 @@
 
 ### Set
 - [Set](./Set.md)
+- [Set Comprehension](./SetComprehension.md)
+- [Removendo duplicados de uma lista com set](./SetListDuplicateRemoval.md)
+- [Acessando o set](./SetAcessando.md)
 
 #### Adicionando ao Set
 - [add()](./SetAdd.md)
 - [update()](./SetUpdate.md)
+
+#### Outros tópicos sobre coleções
+- [enumerate()](./Enumerate.md)
+
+## Funções
+- [Funções](./Functions.md)
   
 ## Estruturas de Controle
 - [if / elif / else](./ifElifElse.md)
@@ -94,7 +103,6 @@
 - [continue](./Continue.md)
 - [break](./Break.md)
 - [range()](./Range.md)
-
 
 ## Orientação a Objetos
 
