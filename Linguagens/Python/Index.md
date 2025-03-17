@@ -38,11 +38,14 @@
 ### Booleano
 - [Bool](./Bool.md)
   
+## Funções Built-in úteis
+- [input()](./Input.md)
+- [help()](./Help.md)
+  
 ## Outros conceitos úteis
 - [Type Annotations](./TypeAnnotations.md)
 - [Type Casting](./TypeCasting.md)
-- [input()](./Input.md)
-
+  
 ## Coleções
 
 ### Listas  
@@ -94,7 +97,12 @@
 
 ## Funções
 - [Funções](./Functions.md)
-  
+- [Parâmetros posicionais e nomeados](./FunctionsParams.md)
+- [return](./FunctionsReturn.md)
+- [*args](./FunctionsArgs.md)
+- [**kwargs](./FunctionsKwargs.md)
+- [pass](./FunctionsPass.md)
+    
 ## Estruturas de Controle
 - [if / elif / else](./ifElifElse.md)
 - [if Ternário](./IfTernario.md)
@@ -114,6 +122,6 @@
 
 # Intermediário
 - [Walrus Operator](./WalrusOperator)
-- [help()](./Help.md)
+
     
 # Avançado

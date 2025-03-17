@@ -19,9 +19,17 @@ Após definir uma **função**, você pode chamá-la simplesmente usando seu nom
 ```python
 saudacao()  # Saída: Olá, mundo!
 ```
+Se a **função** for invocada sem os `()` o python devolverá o endereço de memória onde está função está alocada.
 
-## Pârametros e argumentos
-Assim como em outras linguagens de programação, as **funções** em Python aceitam pârametros:
+```python
+def saudacao():
+    print("Olá, mundo!")
+
+print(saudacao) #Saída <function saudacao at 0x000002018B123E20>
+```
+
+## parâmetros e argumentos
+Assim como em outras linguagens de programação, as **funções** em Python aceitam parâmetros:
 ```python
 def saudacao_personalizada(nome):
     print(f"Olá, {nome}!")
@@ -67,6 +75,15 @@ resultado = soma(5, 3)
 print(resultado)  # Saída: 8
 ```
 
+Por padrão em Python, se a **função** não tiver um `return`, ela retornará `None`:
+
+```python
+def minha_funcao():
+    ...
+
+print(minha_funcao()) #Saída None
+``` 
+
 Uma das particularidades do Python é que a **função** pode retornar mais de um valor. Quando passamos dois ou mais valores para serem retornados, a **função** acaba retornando uma [tupla](./Tuple.md) com os dois valores, podendo então ser aplicada a [desempacotação de tupla](./UnpackTuple.md).
 
 É comum encontrarmos casos onde se use o `_` para essas situações. Ele é aplicado no desenpacotamento da tupla e serve para sinalizar que aquele retorno não tem muita importância para nossa aplicação:
@@ -84,7 +101,7 @@ print(msg) #Saída: "A função funcionou perfeitamente"
 Podemos passar números variáveis de argumentos de uma **função** através de `*args` e `**kwargs`:
 
 ### *args
-`*args` é para pârametros posicionais variados. Para criar uma **função** com `*args` basta colocar um `*` antes do nome do parametro. Um `*args` é recebido pela função como uma [tupla](./Tuple.md).
+`*args` é para parâmetros posicionais variados. Para criar uma **função** com `*args` basta colocar um `*` antes do nome do parametro. Um `*args` é recebido pela função como uma [tupla](./Tuple.md).
 
 ```python
 def soma_tudo(*numeros):
@@ -93,9 +110,9 @@ def soma_tudo(*numeros):
 print(soma_tudo(1, 2, 3, 4))  # Saída: 10
 ```
 
-Você pode combinar `*args` com pârametros posicionais ou pârametros nomeados. **O `*args` não precisa ser o único pârametro na função**:
+Você pode combinar `*args` com parâmetros posicionais ou parâmetros nomeados. **O `*args` não precisa ser o único parâmetro na função**:
 
-`*args` com pârametro nomeado em uma função:
+`*args` com parâmetro nomeado em uma função:
 ```python
 def somar_numeros(*numeros, multiplicador=1):
     soma = sum(numeros)
@@ -106,7 +123,7 @@ print(somar_numeros(1, 2, 3))  # Saída: 6 (multiplicador padrão = 1)
 print(somar_numeros(1, 2, 3, multiplicador=2))  # Saída: 12 (multiplicador = 2)
 ```
 
-`*args` com parametro posicional **(é necessário que o `*args` seja o último pârametro)**:
+`*args` com parametro posicional **(é necessário que o `*args` seja o último parâmetro)**:
 
 ```python
 def minha_funcao(primeiro, *args):
@@ -120,7 +137,7 @@ minha_funcao(10, 1, 2, 3)
 # Args: (1, 2, 3)
 ```
 
-Juntando `*args`, pârametros opcionais e pârametros nomeados: 
+Juntando `*args`, parâmetros opcionais e parâmetros nomeados: 
 
 ```python
 def minha_funcao(primeiro, *args, extra=0):
@@ -134,7 +151,7 @@ minha_funcao(10, 1, 2, 3, extra=5)  # Extra alterado
 ```
 
 ### **kwargs
-Funciona semelhante ao `*args`, porém com a diferença que o `**kwargs` se aplica a quando queremos passar um número variável de pârametros nomeados. Para definir uma **função** com `**kwargs` basta colocar um `**` antes do pârametro na definição. A **função** recebe o `**kwargs` como um [dict](./Dict.md):
+Funciona semelhante ao `*args`, porém com a diferença que o `**kwargs` se aplica a quando queremos passar um número variável de parâmetros nomeados. Para definir uma **função** com `**kwargs` basta colocar um `**` antes do parâmetro na definição. A **função** recebe o `**kwargs` como um [dict](./Dict.md):
 
 ```python
 def informacoes(**dados):
@@ -147,9 +164,9 @@ informacoes(nome="Ana", idade=22, cidade="São Paulo")
 # idade: 22
 # cidade: São Paulo
 ```
-Assim como acontece com os `*args`, o `**kwargs` não precisa ser o único pârametro de uma **função**, ele pode ser combinado com pârametros posicionais, nomeados e até um `*args`:
+Assim como acontece com os `*args`, o `**kwargs` não precisa ser o único parâmetro de uma **função**, ele pode ser combinado com parâmetros posicionais, nomeados e até um `*args`:
 
-`**kwargs` com pârametro nomeados, **(é necessário que o `*args` seja o último pârametro)**:
+`**kwargs` com parâmetro nomeados, **(é necessário que o `*args` seja o último parâmetro)**:
 ```python
 def minha_funcao(extra=0, **kwargs):
     print("Extra:", extra)
@@ -163,7 +180,7 @@ minha_funcao(extra=10, a=1, b=2)  # Extra modificado
 # Saída: Extra: 10 | Kwargs: {'a': 1, 'b': 2}
 ```
 
-`**kwargs` e pârametros posicionais:
+`**kwargs` e parâmetros posicionais:
 
 ```python
 def minha_funcao(primeiro, **kwargs):
@@ -178,7 +195,7 @@ minha_funcao(10, a=1, b=2)
 minha_funcao(a=1, b=2)  # ERRO: falta o argumento posicional 'primeiro'
 ```
 
-`**kwargs` com um pârametro nomeado e um `*args`:
+`**kwargs` com um parâmetro nomeado e um `*args`:
 ```python
 def minha_funcao(*args, extra=0, **kwargs):
     print("Args:", args)
