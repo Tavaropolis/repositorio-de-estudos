@@ -9,6 +9,6 @@ Funciona da mesma maneira que os [`...`](./FunctionEllipsis.md).
 O [Python](./Index.md) nos permite utilizar a palavra reservada `pass` para quando queremos deixar a implementação do bloco da função para depois, evitando então erro de bloco vazio.
 
 ```python
-def minha_funcao()
+def minha_funcao():
     pass
 ```

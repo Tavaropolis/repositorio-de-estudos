@@ -41,10 +41,12 @@
 ## Funções Built-in úteis
 - [input()](./Input.md)
 - [help()](./Help.md)
+- [id()](./Id.md)
   
 ## Outros conceitos úteis
 - [Type Annotations](./TypeAnnotations.md)
 - [Type Casting](./TypeCasting.md)
+- [Internings](./Internings.md)
   
 ## Coleções
 
@@ -99,10 +101,13 @@
 - [Funções](./Functions.md)
 - [Parâmetros posicionais e nomeados](./FunctionsParams.md)
 - [return](./FunctionsReturn.md)
+- [global](./FunctionsGlobal.md)
 - [*args](./FunctionsArgs.md)
 - [**kwargs](./FunctionsKwargs.md)
 - [pass](./FunctionsPass.md)
-    
+- [...](./FunctionEllipsis.md)    
+- [High Order Functions](./FunctionsHighOrder.md)
+  
 ## Estruturas de Controle
 - [if / elif / else](./ifElifElse.md)
 - [if Ternário](./IfTernario.md)
