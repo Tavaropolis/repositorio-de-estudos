@@ -94,6 +94,12 @@
 - [add()](./SetAdd.md)
 - [update()](./SetUpdate.md)
 
+#### Removendo de um Set
+- [remove()](./SetRemove.md)
+
+### Dict
+- [Dict](./Dict.md)
+  
 #### Outros tópicos sobre coleções
 - [enumerate()](./Enumerate.md)
 
