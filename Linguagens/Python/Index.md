@@ -99,8 +99,16 @@
 
 ### Dict
 - [Dict](./Dict.md)
-  
-#### Outros tópicos sobre coleções
+- [Acessando o Dict](./DictAcessando.md)
+- [get()](./DictGet.md)
+- [keys()](./DictKeys.md)
+- [values()](./DictValues.md)
+- [items()](./DictItems.md)
+
+#### Removendo de um Dict
+- [pop()](./DictPop.md)
+
+### Outros tópicos sobre coleções
 - [enumerate()](./Enumerate.md)
 
 ## Funções
