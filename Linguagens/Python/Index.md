@@ -96,7 +96,13 @@
 
 #### Removendo de um Set
 - [remove()](./SetRemove.md)
+- [discard()](./SetDiscard.md)
+- [clear()](./SetClear.md)
+- [del](./SetDel.md)
 
+#### Outros métodos úteis de Set
+- [difference()](./SetDifference.md)
+  
 ### Dict
 - [Dict](./Dict.md)
 - [Acessando o Dict](./DictAcessando.md)
@@ -142,5 +148,7 @@
 # Intermediário
 - [Walrus Operator](./WalrusOperator)
 
-    
 # Avançado
+
+## Interpretadores Python
+- [Jython](./Jython.md)
