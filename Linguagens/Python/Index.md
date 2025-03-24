@@ -8,7 +8,7 @@
 
 ## Introdução
 - [Executando um script Python](./ExecutandoScript.md)
-- [Hello World](./HelloWord.md)
+- [Hello World](./HelloWorld.md)
 - [Variáveis](./Variaveis.md)
 - [Atribuição Múltipla](./AtribuicaoMultipla.md)
 - [Comentários](./Comentarios.md)
@@ -102,6 +102,11 @@
 
 #### Outros métodos úteis de Set
 - [difference()](./SetDifference.md)
+- [intersection()](./SetIntersection.md)
+- [symmetric_difference()](./SetSymmetricDifference.md)
+- [union()](./SetUnion.md)
+- [issubset()](./SetIsSubset.md)
+- [issuperset()](./SetIsSuperset.md)
   
 ### Dict
 - [Dict](./Dict.md)

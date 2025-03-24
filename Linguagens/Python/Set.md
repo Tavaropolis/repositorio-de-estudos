@@ -6,6 +6,8 @@
 
 Um **set** é um tipo de coleção do [Python](./Index.md) que se assemelha a uma [lista](./List.md), com duas grandes diferenças: **set não permitem elementos repetidos e os elementos não são ordenados por índices**.
 
+**Importante ressaltar que sets só aceitam dados imutáveis**.
+
 Podemos declarar um novo **set** através da notação com `{}`. Segue o exemplo: 
 ```python
 thisset = {"apple", "banana", "cherry", "apple"}
