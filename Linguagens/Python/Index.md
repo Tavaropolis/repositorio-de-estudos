@@ -120,6 +120,7 @@
 - [pop()](./DictPop.md)
 
 ### Outros tópicos sobre coleções
+- [Shallow Copy e Deep Copy](./ShallowCopyDeepCopy.md)
 - [enumerate()](./Enumerate.md)
 
 ## Funções
@@ -132,6 +133,7 @@
 - [pass](./FunctionsPass.md)
 - [...](./FunctionEllipsis.md)    
 - [High Order Functions](./FunctionsHighOrder.md)
+- [lambda](./Lambda.md)
   
 ## Estruturas de Controle
 - [if / elif / else](./ifElifElse.md)
