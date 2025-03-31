@@ -18,6 +18,7 @@
 ### Conceitos básicos
 - [Tipos de dados](./TiposDeDados.md)
 - [type()](./Type.md)
+- [isinstance()](./IsInstance.md)
   
 ### Números
 - [Int](./Int.md)
@@ -37,6 +38,7 @@
   
 ### Booleano
 - [Bool](./Bool.md)
+- [Truthy e Falsy](./TruthyFalsy.md)
   
 ## Funções Built-in úteis
 - [input()](./Input.md)
@@ -115,7 +117,9 @@
 - [keys()](./DictKeys.md)
 - [values()](./DictValues.md)
 - [items()](./DictItems.md)
-
+- [Desempacotamento de Dict](./DictUnpack.md)
+- [Dict Comprehension](./DictComprehension.md)
+  
 #### Removendo de um Dict
 - [pop()](./DictPop.md)
 
@@ -144,6 +148,10 @@
 - [break](./Break.md)
 - [range()](./Range.md)
 
+## Generators
+- [Iterators](./Iterators.md)
+- [Generators](./Generators.md)
+  
 ## Orientação a Objetos
 
 ### Conceitos básicos
