@@ -151,7 +151,12 @@
 ## Generators
 - [Iterators](./Iterators.md)
 - [Generators](./Generators.md)
-  
+- [Generator Expression](./GeneratorExpression.md)
+- [yield from](./YieldFrom.md)
+
+## Tratamento de Erros
+- [try/execpt/finally](./TryExecptFinally.md)
+
 ## Orientação a Objetos
 
 ### Conceitos básicos
@@ -161,6 +166,12 @@
 - [self](./SelfClass.md)
 
 # Intermediário
+
+## Módulos
+- [import](./Import.md)
+- [\_\_all\_\_](AllImport.md)
+  
+## Outros conceitos úteis
 - [Walrus Operator](./WalrusOperator)
 
 # Avançado

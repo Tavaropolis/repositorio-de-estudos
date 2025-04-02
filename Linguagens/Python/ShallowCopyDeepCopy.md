@@ -4,7 +4,7 @@
 
 # Shallow Copy e Deep Copy
 
-O [python](./Index.md) trabalha com referência de memória quando utilizamos tipos mutáveis ([listas](./List.md) e [dicionários](./Dict.md)). Vou exemplificar com o código abaixo. Aqui **d2** não sim recebendo o valor de **d1**, mas sim a referência da memória onde essa lista está salva. Qualquer alteração em uma das variáveis vai refletir na outra. 
+O [Python](./Index.md) trabalha com referência de memória quando utilizamos tipos mutáveis ([listas](./List.md) e [dicionários](./Dict.md)). Vou exemplificar com o código abaixo. Aqui **d2** não sim recebendo o valor de **d1**, mas sim a referência da memória onde essa lista está salva. Qualquer alteração em uma das variáveis vai refletir na outra. 
 
 ```python
 d1 = {

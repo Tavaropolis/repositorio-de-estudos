@@ -4,7 +4,7 @@
 
 # Removendo duplicados de uma lista com set
 
-Uma das maneiras que um [set](./Set.md) é mais utilizado em [python](./Index.md) é para remover elementos duplicados em uma [lista](./List.md). Basta transformar a lista em um set e depois transformar em lista novamente:
+Uma das maneiras que um [set](./Set.md) é mais utilizado em [Python](./Index.md) é para remover elementos duplicados em uma [lista](./List.md). Basta transformar a lista em um set e depois transformar em lista novamente:
 
 ```python
 list_duplicados = (1, 2, 2, 3, 3, 4, 5)
