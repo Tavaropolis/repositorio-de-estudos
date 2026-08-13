@@ -41,6 +41,7 @@
 - [Truthy e Falsy](./TruthyFalsy.md)
   
 ## Funções Built-in úteis
+- [print()](./Print.md)
 - [input()](./Input.md)
 - [help()](./Help.md)
 - [id()](./Id.md)
@@ -169,8 +170,11 @@
 
 ## Módulos
 - [import](./Import.md)
-- [\_\_all\_\_](AllImport.md)
-  
+- [\_\_all\_\_](./AllImport.md)
+
+### Módulos padrãp
+- [logging](./Logging.md)
+
 ## Outros conceitos úteis
 - [Walrus Operator](./WalrusOperator)
 
