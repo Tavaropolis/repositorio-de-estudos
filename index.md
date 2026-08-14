@@ -16,6 +16,7 @@
 
 ### Fundamentos
 - **[ASCII](./Linguagens/Fundamentos/ASCII.md)**
+- **[Git](./Linguagens/Fundamentos/Git/Index.md)**
 - **[Linux CLI](./Linguagens/LinuxCLI/Index.md)**
   
 ## Links Úteis
