@@ -6,6 +6,8 @@
 - [Instalando o Git](./Instalacao.md)
 - [git --version](./GitVersion.md)
 - [git config](./GitConfig.md)
+- [git init](./GitInit.md)
+- [git status](./GitStatus.md)
 
 # Intermediário
     
