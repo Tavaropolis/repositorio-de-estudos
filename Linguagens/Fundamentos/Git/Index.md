@@ -9,6 +9,8 @@
 - [git init](./GitInit.md)
 - [git status](./GitStatus.md)
 - [git add](./GitAdd.md)
+- [git restore](./GitRm.md)
+- [HEAD e Referências de Commits](./Head.md)
 
 # Intermediário
     
