@@ -31,13 +31,13 @@ O Git gerencia os diferentes níveis através de arquivos de configurações dif
 É possível adicionar as informações de usuário através das flags `user.name` e `user.email`. Essas informações são gravadas nos commits.
 
 Se usar com a flag `--local` irá valer apenas para aquele repositório.
-```cmd
+```bash
 git config --local user.name "Seu Nome"
 git config --local user.email "seu@email.com"
 ```
 
 Se usar com a flag `--global` irá afeta seus repositórios em geral.
-```cmd
+```bash
 git config --global user.name "Seu Nome"
 git config --global user.email "seu@email.com"
 ```
@@ -49,12 +49,12 @@ Devido as prioridades, se ouvir um usuário `--local` e um `--global` **o usuár
 ## --list, --show-scope e --show-origin
 
 É possível verificar as propriedades já configuradas através da flag `--list`.
-```cmd
+```bash
 git config --list 
 ```
 
 O retorno segue uma lógica de [chave]=[valor], por exemplo:
-```cmd
+```bash
 core.symlinks=false
 core.ignorecase=true
 remote.origin.url=https://github.com/Tavaropolis/repositorio-de-estudos.git
@@ -65,12 +65,12 @@ branch.main.vscode-merge-base=origin/main
 ```
 
 Adicionando `--show-scope` você adiciona ao retorno o escopo da configuração (se é `--local`, `--global` ou `--system`):
-```cmd
+```bash
 git config --list  --show-scope
 ```
 
 Exemplo de retorno:
-```cmd
+```bash
 system  file:C:/Program Files/Git/etc/gitconfig credential.https://dev.azure.com.usehttppath=true
 system  file:C:/Program Files/Git/etc/gitconfig init.defaultbranch=master
 local   file:.git/config        core.repositoryformatversion=0

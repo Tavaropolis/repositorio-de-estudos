@@ -8,6 +8,7 @@
 - [git config](./GitConfig.md)
 - [git init](./GitInit.md)
 - [git status](./GitStatus.md)
+- [git add](./GitAdd.md)
 
 # Intermediário
     
