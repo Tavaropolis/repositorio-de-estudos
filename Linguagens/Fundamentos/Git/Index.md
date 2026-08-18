@@ -7,9 +7,11 @@
 - [git --version](./GitVersion.md)
 - [git config](./GitConfig.md)
 - [git init](./GitInit.md)
+- [Estados de um Arquivo no Git](./EstadosGit.md)
 - [git status](./GitStatus.md)
 - [git add](./GitAdd.md)
-- [git restore](./GitRm.md)
+- [git restore](./GitRestore.md)
+- [git diff](./GitDiff.md)
 - [HEAD e Referências de Commits](./Head.md)
 
 # Intermediário

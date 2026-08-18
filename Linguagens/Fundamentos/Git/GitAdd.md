@@ -9,7 +9,7 @@
 - [-p](#-p)
 - [-f](#-f)
 
-O comando `git add` é a porta de entrada para o controle de versão no Git. Sua função principal é mover alterações do [working directory](./Working.md) para a [staging area](./Staging.md) (índice), preparando-as para serem incluídas no próximo [commit](./Commit.md).
+O comando `git add` é a porta de entrada para o controle de versão no Git. Sua função principal é mover alterações do [working directory](./Working.md) para a [staging area](./EstadosGit) (índice), preparando-as para serem incluídas no próximo [commit](./Commit.md).
 
 ```bash
 git add <caminho_do_arquivo>

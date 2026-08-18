@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="../../CSS/dark-theme.css">
+<link rel="stylesheet" type="text/css" href="../../../CSS/dark-theme.css">
 
 [Anotações](../../) > [Fundamentos](../Index.md) > [Git](./Index.md) > [HEAD e Referências de Commits](./Head.md)
 

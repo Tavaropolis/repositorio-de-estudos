@@ -53,7 +53,7 @@ git restore arquivo.txt
 ```
 
 # --staged
-Ao aplicarmos o [`git add`](./GitAdd.md), o arquivo adicionado passa para a [staging area](./Staging.md).
+Ao aplicarmos o [`git add`](./GitAdd.md), o arquivo adicionado passa para a [staging area](./EstadosGit).
 
 Através do `git restore --staged` para retirar um arquivo da área de staging. O conteúdo do arquivo não é perdido. A alteração simplesmente deixa de estar no staging.
 
