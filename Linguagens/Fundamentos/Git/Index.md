@@ -13,6 +13,8 @@
 - [git restore](./GitRestore.md)
 - [git diff](./GitDiff.md)
 - [HEAD e Referências de Commits](./Head.md)
+- [git log](./GitLog.md)
+- [git checkout](./GitCheckout.md)
 
 # Intermediário
     

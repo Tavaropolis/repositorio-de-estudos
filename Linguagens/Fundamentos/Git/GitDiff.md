@@ -118,17 +118,17 @@ Onde:
 - `D` — Deleted
 
 ## TLDR
-| Comando                   | O que mostra                             |
-| ------------------------- | ---------------------------------------- |
-| `git diff`                | Working tree ↔ staging                   |
-| `git diff --staged`       | Staging ↔ HEAD                           |
-| `git diff --cached`       | Igual a `--staged`                       |
-| `git diff HEAD`           | Working tree ↔ HEAD                      |
-| `git diff A B`            | Diferença entre dois commits/referências |
-| `git diff -- arquivo.txt` | Diff de um arquivo específico            |
-| `git diff --stat`         | Resumo das alterações                    |
-| `git diff --name-only`    | Apenas nomes dos arquivos                |
-| `git diff --name-status`  | Nomes + tipo de alteração                |
-| `git diff --check`        | Verifica problemas de whitespace         |
-| `git diff --word-diff`    | Mostra diferenças por palavra            |
-| `git diff -U0`            | Sem linhas de contexto                   |
+| Comando|O que mostra|
+|--------|--------|
+|`git diff`|Working tree ↔ staging|
+|`git diff --staged`|Staging ↔ HEAD|
+|`git diff --cached`|Igual a `--staged`|
+|`git diff HEAD`|Working tree ↔ HEAD|
+|`git diff A B` |Diferença entre dois commits/referências|
+|`git diff -- arquivo.txt`|Diff de um arquivo específico|
+|`git diff --stat`|Resumo das alterações|
+|`git diff --name-only`|Apenas nomes dos arquivos|
+|`git diff --name-status`|Nomes + tipo de alteração|
+|`git diff --check`|Verifica problemas de whitespace|
+|`git diff --word-diff`|Mostra diferenças por palavra|
+|`git diff -U0`|Sem linhas de contexto|
