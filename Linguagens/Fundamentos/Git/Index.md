@@ -15,6 +15,8 @@
 - [HEAD e Referências de Commits](./Head.md)
 - [git log](./GitLog.md)
 - [git checkout](./GitCheckout.md)
+- [git remote](./GitRemote.md)
+- [git push](./GitPush.md)
 
 # Intermediário
     
