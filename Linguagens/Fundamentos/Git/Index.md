@@ -3,9 +3,13 @@
 [Anotações](../../) > [Linguagens](../Index.md) > [Git](./Index.md)
 
 # Básico
+
+## Instalação
 - [Instalando o Git](./Instalacao.md)
 - [git --version](./GitVersion.md)
 - [git config](./GitConfig.md)
+
+## Manipulação de arquivos e commits
 - [git init](./GitInit.md)
 - [Estados de um Arquivo no Git](./EstadosGit.md)
 - [git status](./GitStatus.md)
@@ -19,5 +23,8 @@
 - [git push](./GitPush.md)
 
 # Intermediário
-    
+
+## Github
+- [Star](./GithubStar.md)
+
 # Avançado
